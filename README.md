@@ -1,6 +1,8 @@
 # 📚 Genre-Based Book Recommendation System
 
 This is a Flask web application that recommends top-rated books based on the selected genre. It uses Goodreads data to provide recommendations, factoring in both average ratings and the number of user ratings for each book.
+
+📸 UI Preview
 ![Animation Preview](animation5.gif)  
 
 ## 🚀 Features
@@ -46,7 +48,7 @@ pip install flask pandas
 python app.py
 Visit http://127.0.0.1:5000 in your browser.
 
-📸 UI Preview
+
 
 📂 File Structure
 ├── app.py
